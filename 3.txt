@@ -3,3 +3,4 @@ from django import models
           CarName = input();
           CarNum = int(input());
           CarPrize = int(input());
+	  Car_working = input();
