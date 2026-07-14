@@ -1,6 +1,0 @@
-from django import models
-    class Employee(models.Model):
-          CarName = input();
-          CarNum = int(input());
-          CarPrize = int(input());
-	  Car_working = input();
