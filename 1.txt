@@ -1,0 +1,5 @@
+class Test(models.Model):
+     testId = input();
+     testName = input();
+     testMarks = input();
+     
